@@ -1,0 +1,9 @@
+.I 1
+.W
+The game of life is a game of everlasting learning
+.I 2
+.W
+The unexamined life is not worth living
+.I 3
+.W
+Never stop learning
